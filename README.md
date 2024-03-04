@@ -1,4 +1,17 @@
-<h2 align="left">Hi 👋! My name is Siddharth and I'm a DevOps Engineer currently working on NTT DATA</h2>
+<h2 align="middle">Hi 👋! I'm Siddharth </h2>
+
+<div class="about-me">
+  <h2>🚀 About Me</h2>
+  <ul>
+    <li><span>💻</span> I'm a DevOps Engineer with 2.5 years of experience</li>
+    <li><span>👩‍💻</span> Currently Working on NTT DATA</li>
+    <li><span>🧠</span> Always Eager to Learn New Technologies</li>
+  </ul>
+</div>
+
+
+
+<h2 align="left">Stats</h2>
 
 ###
 
@@ -34,11 +47,6 @@
   <a href="https://www.discordapp.com/users/519064407792156672" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sidg3838/sidg3838/output/snake.svg" alt="Snake animation" />
 
 <h2 align="left"> Profile Views </h2>
 
@@ -47,6 +55,8 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/sidg3838/count.svg?"  />
 </div>
+
+<h2 align="left"> Last but not least </h2>
 
 ###
 
