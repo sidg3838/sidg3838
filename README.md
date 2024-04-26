@@ -60,4 +60,4 @@
 
 ###
 
-<img align="center" height="150" src="<iframe src="https://giphy.com/embed/yuoeTyJ2qie2x3tvJL" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-jimmy-fallon-tonightshow-jimmyfallon-yuoeTyJ2qie2x3tvJL">via GIPHY</a></p>"  />
+<iframe src="https://giphy.com/embed/yuoeTyJ2qie2x3tvJL" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-jimmy-fallon-tonightshow-jimmyfallon-yuoeTyJ2qie2x3tvJL">via GIPHY</a></p>
