@@ -3,7 +3,7 @@
 <div class="about-me">
   <h2>🚀 About Me</h2>
   <ul>
-    <li><span>💻</span> I'm a DevOps Engineer with 2.5 years of experience</li>
+    <li><span>💻</span> I'm a DevOps Engineer with 3+ years of experience</li>
     <li><span>👩‍💻</span> Currently Working on NTT DATA</li>
     <li><span>🧠</span> Always Eager to Learn New Technologies</li>
   </ul>
