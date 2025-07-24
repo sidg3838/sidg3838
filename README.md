@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sidg3838/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=sidg3838&color=orange"  />
 </div>
 
 <h2 align="left"> Last but not least </h2>
