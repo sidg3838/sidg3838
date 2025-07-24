@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sidg3838&color=orange"  />
+  <img src="https://komarev.com/ghpvc/?username=sidg3838&style=for-the-badge&color=43eaff"  />
 </div>
 
 <h2 align="left"> Last but not least </h2>
