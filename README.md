@@ -4,7 +4,7 @@
   <h2>🚀 About Me</h2>
   <ul>
     <li><span>💻</span> I'm a DevOps Engineer with 4 years of experience</li>
-    <li><span>👩‍💻</span> Currently Working on Sustainext</li>
+    <li><span>👩‍💻</span> Currently Working at Sustainext</li>
     <li><span>🧠</span> Always Eager to Learn New Technologies</li>
   </ul>
 </div>
@@ -20,7 +20,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidg3838&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="left"> Languages and Tools</h2>
+###
+
+<img src="https://raw.githubusercontent.com/sidg3838/sidg3838/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left"> Tech Stack </h2>
 
 ###
 
@@ -34,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
 </div>
 
 
@@ -46,6 +53,8 @@
  <a href="https://www.linkedin.com/in/sidg3838" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <a href="https://www.discordapp.com/users/519064407792156672" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
 </div>
+
+
 
 
 <h2 align="left"> Profile Views </h2>
