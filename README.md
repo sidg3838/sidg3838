@@ -11,7 +11,7 @@
 
 
 
-<h2 align="left">Stats</h2>
+<h2 align="left"> 📊 Stats</h2>
 
 ###
 
@@ -22,15 +22,15 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidg3838/sidg3838/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidg3838/sidg3838/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sidg3838/sidg3838/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  
+<img src="https://nirzak-streak-stats.vercel.app/?user=sidg3838&theme=dark&hide_border=false" height="150" />
+
+</div>
 
 ###
 
-<h2 align="left"> Tech Stack </h2>
+<h2 align="left"> 💻 Tech Stack </h2>
 
 ###
 
@@ -48,9 +48,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
 </div>
 
+###
+
+<h2 align="left"> 🔝 Top Contributed Repo </h2>
+
+![](https://github-contributor-stats.vercel.app/api?username=sidg3838&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<h2 align="left">  Connect with Me </h2>
+<h2 align="left"> 🌐 Connect with Me </h2>
 
 ###
 
@@ -59,8 +64,14 @@
   <a href="https://www.discordapp.com/users/519064407792156672" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
 </div>
 
+###
+
+<h2 align="left"> ✍️ Random Dev Quote </h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
+###
 
 <h2 align="left"> Profile Views </h2>
 
