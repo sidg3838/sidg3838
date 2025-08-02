@@ -1,4 +1,4 @@
-<h2 align="middle">Hi 👋! I'm Siddharth </h2>
+<h2 align="middle">Hello there 👋! I'm Siddharth </h2>
 
 <div class="about-me">
   <h2>🚀 About Me</h2>
@@ -22,7 +22,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sidg3838/sidg3838/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidg3838/sidg3838/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidg3838/sidg3838/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sidg3838/sidg3838/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
